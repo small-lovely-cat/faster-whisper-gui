@@ -1,0 +1,6 @@
+{
+    "model_path": "C:/Users/猫咪/Desktop/whisper/model",
+    "api_enabled": false,
+    "api_host": "0.0.0.0",
+    "api_port": 5000
+}

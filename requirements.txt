@@ -1,0 +1,6 @@
+PyQt5
+PyQt-Fluent-Widgets[full]
+faster-whisper
+opencc
+flask
+flask-cors
